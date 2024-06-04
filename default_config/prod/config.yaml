@@ -1,5 +1,5 @@
 API_HOST_URL: 'http://localhost:8000'
-APPLICATION_ID: 'org.openedx.app'
+APPLICATION_ID: 'com.gudinh.elearn'
 ENVIRONMENT_DISPLAY_NAME: 'Localhost'
 URI_SCHEME: ''
 FEEDBACK_EMAIL_ADDRESS: 'support@example.com'
@@ -67,8 +67,8 @@ BRANCH:
   ALTERNATE_HOST: ''
 
 #Platform names
-PLATFORM_NAME: "OpenEdX"
-PLATFORM_FULL_NAME: "OpenEdX"
+PLATFORM_NAME: "VBEL"
+PLATFORM_FULL_NAME: "VietBankElearning"
 #tokenType enum accepts JWT and BEARER only
 TOKEN_TYPE: "JWT"
 #feature flag for activating What’s New feature
